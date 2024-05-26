@@ -1,4 +1,4 @@
-## Salima ELHOU
+## Salma EZACCANI
 # WebServices-SOAP-WSDL-UDDI-JaxWS
 Ce projet présente les concepts fondamentaux des Web services étendus basés sur SOAP, WSDL, UDDI et JaxWS.
 ## les tâches réalisées
